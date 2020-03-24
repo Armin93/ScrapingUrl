@@ -12,6 +12,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
+    "get-urls": "^9.2.0",
+    "node-html-crawler": "^1.0.7",
     "request": "^2.88.2"
   },
   "devDependencies": {
